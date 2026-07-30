@@ -16,7 +16,7 @@
 - [五、第二层：结构化辩论层](决策主体的形成机制.md)
 - [六、第三层：元受动极层](Null-Model-Design-Specification.md)
 - [七、双视角辩证机制](TDA-Triadic-Dialectical-Architecture-v1.0.md)
-- [八、双相理论（Dual-Phase Theory）](TDA.md)
+- [八、双相理论（Dual-Phase Theory）](dual-phase-theory.md)
 - [附录]
 - [A：裁决 AI 动态阈值算法参考实现](#附录)
 - [B：架构哲学完整阐释——原始设计笔记](#附录)
