@@ -13,8 +13,8 @@
 - [二、架构总览](架构总览.md)
 - [三、第一层：先验计算结构（空模型范式）](第一层.md)
 - [四、第二层：结构化辩论层](TDA_Architecture_Design.md)
-- [五、第二层：结构化辩论层](决策主体的形成机制.md)
-- [六、第三层：元受动极层](Null-Model-Design-Specification.md)
+- [五、第三层：元受动极层](决策主体的形成机制.md)
+- [六、第三层：](Null-Model-Design-Specification.md)
 - [七、双视角辩证机制](TDA-Triadic-Dialectical-Architecture-v1.0.md)
 - [八、双相理论（Dual-Phase Theory）](dual-phase-theory.md)
 - [附录]
