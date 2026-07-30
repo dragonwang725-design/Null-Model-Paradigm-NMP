@@ -12,18 +12,20 @@
 - [一、设计哲学](设计哲学.md)
 - [二、架构总览](架构总览.md)
 - [三、第一层：先验计算结构（空模型范式）](第一层.md)
-- [四、第二层：结构化辩论层](TDA_Architecture_Design.md)
-- [五、第三层：元受动极层](决策主体的形成机制.md)
-- [六、第三层：](Null-Model-Design-Specification.md)
-- [七、双视角辩证机制](TDA-Triadic-Dialectical-Architecture-v1.0.md)
-- [八、双相理论（Dual-Phase Theory）](dual-phase-theory.md)
+- [四、第二层：结构化辩论层](第二层.md)
+- [五、第三层：元受动极层](第三层.md)
+- [六、双视角辩证机制](双视角辩证机制.md)
+- [七、双相理论（Dual-Phase Theory）](dual-phase-theory.md)
+- [八、术语表](术语表.md)
 - [附录]
-- [A：裁决 AI 动态阈值算法参考实现](#附录)
-- [B：架构哲学完整阐释——原始设计笔记](#附录)
-- [C：元事实库数据结构规范（Meta-Fact Vault v2.0.0）](#附录)
-- [D：云端-本地交互协议（Cloud-Local Protocol v2.0）](#附录)
-- [E：NMP 逻辑一致性验证报告（V2.0）](#附录)
-- [F：智能三层控制体系与 NMP/TDA 的融合论述](#附录)
+- [A：裁决 AI 动态阈值算法参考实现](裁决AI动态阈值算法参考实现.md)
+- [B：架构哲学完整阐释——原始设计笔记](架构哲学完整阐释.md)
+- [C：元事实库数据结构规范（Meta-Fact Vault v2.0.0）](元事实库数据结构规范.md)
+- [D：云端-本地交互协议（Cloud-Local Protocol v2.0）](云端-本地交互协议.md)
+- [E：NMP 逻辑一致性验证报告（V2.0）](NMP逻辑一致性验证报告.md)
+- [F：智能三层控制体系与 NMP/TDA 的融合论述](智能三层控制体系.md)
+  
+## 简介
   
 #
 
