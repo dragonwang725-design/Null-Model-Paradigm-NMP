@@ -1,25 +1,35 @@
-# TDA 三层双视角辩证架构设计文档
+#  *TDA 三层双视角辩证架构设计文档目录*
+*—— （Three-layer Dual-perspective Asymmetric）*
 
 **版本**: 3.0.0  
 **最后更新**: 2026-07-30
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
 
 ## 目  录
 
-- [空模型范式](#空模型范式)
-- [第一篇："受动-能动"辩证结构与认识论的操作化路径](Philosophy_Inspiration.md)
-- [第二篇：人工智能的认识论边界](人工智能的认识论边界.md)
-- [第三篇：大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
-- [第四篇：TDA 三层双视角辩证架构设计文档](TDA_Architecture_Design.md)
-- [第五篇：论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
-- [第六篇：空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
-- [第七篇：三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
-- [第八篇：没有统一的"**对**"：人工智能研究的学科重构与使用侧转向](TDA.md)
-- [附录](#附录)
-
-
 #
 
-## 空模型范式
+- [前言：空模型范式](#前言：空模型范式)
+- [一、设计哲学](Philosophy_Inspiration.md)
+- [二、架构总览）](人工智能的认识论边界.md)
+- [三、第一层：先验计算结构（空模型）](TDA-Theory.md)
+- [四、第二层：结构化辩论层](TDA_Architecture_Design.md)
+- [五、第二层：结构化辩论层](决策主体的形成机制.md)
+- [六、第三层：元受动极层](Null-Model-Design-Specification.md)
+- [七、双视角辩证机制](TDA-Triadic-Dialectical-Architecture-v1.0.md)
+- [八、双相理论（Dual-Phase Theory）](TDA.md)
+- [附录]
+- [A：裁决 AI 动态阈值算法参考实现](#附录)
+- [B：架构哲学完整阐释——原始设计笔记](#附录)
+- [C：元事实库数据结构规范（Meta-Fact Vault v2.0.0）](#附录)
+- [D：云端-本地交互协议（Cloud-Local Protocol v2.0）](#附录)
+- [E：NMP 逻辑一致性验证报告（V2.0）](#附录)
+- [F：智能三层控制体系与 NMP/TDA 的融合论述](#附录)
+  
+
+
+## 前言：空模型范式
+
 >
 > ***—— 知识是动力，目的是方向，而事实是方向盘***。
 >
