@@ -24,6 +24,9 @@
 - [D：云端-本地交互协议（Cloud-Local Protocol v2.0）](云端-本地交互协议.md)
 - [E：NMP 逻辑一致性验证报告（V2.0）](NMP逻辑一致性验证报告.md)
 - [F：智能三层控制体系与 NMP/TDA 的融合论述](智能三层控制体系.md)
+- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
+- [v2.0 两大新功能的演示脚本](demo_v2.py)
+ 
   
 ## 简介
   
