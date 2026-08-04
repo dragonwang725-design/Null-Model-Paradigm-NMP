@@ -5,7 +5,7 @@
 > **定位**: 认识论根基的形式化表达  
 > **日期**: 2026-06-14
 > 
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718875.svg)](https://doi.org/10.5281/zenodo.21718875)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718874.svg)](https://doi.org/10.5281/zenodo.21718874)
 #
 
 ### G.1 核心命题（自然语言）
