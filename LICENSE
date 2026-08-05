@@ -3,7 +3,7 @@ MIT License
 Copyright (c) 2026 王龙
 # Dual License Statement 双许可声明
 ## 适用范围
-本仓库全部文档（Appendix_G.md、推导手稿、架构图）、TLA+规约代码、参考实现Demo 同时受两套许可约束，使用者必须择一遵守：
+本仓库全部文档（推导手稿、架构图、Appendix_G.md）、TLA+规约代码、参考实现Demo 同时受两套许可约束，使用者必须择一遵守：
 
 ### 许可A：CC-BY-NC-SA 4.0 国际许可（非商用学术使用）
 适用主体：个人学习者、高校师生、非营利科研机构、无盈利场景实验
