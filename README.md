@@ -1,10 +1,20 @@
-#  *TDA 三层双视角辩证架构设计文档目录*
-*—— （Three-layer Dual-perspective Asymmetric）*
+---
+title: "TDA三层双视角辩证架构 | 受动极必要性定理"
+author: "loweswang（独立研究者）"
+orcid: "0009-0004-5919-8856"
+date: "2026-07-30"
+version: "nmp/v6.0.0-TDA/v3.0.0"
+doi: "10.5281/zenodo.21281430" 
+license: "CC BY 4.0"
+Copyright (c) 2026: loweswnag
+---
 
-**版本**: 3.0.0  
-**最后更新**: 2026-07-30
+未经商用授权直接用于盈利产品将构成著作权与商标侵权。
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
+
+#  *TDA 三层双视角辩证架构设计文档目录*
+*—— （Three-layer Dual-perspective Asymmetric）*
 
 ## 目  录
 
