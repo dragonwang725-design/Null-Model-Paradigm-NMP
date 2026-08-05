@@ -1,35 +1,32 @@
-NOTICE
-Copyright (c) 2026 【王龙】【英文用名：loweswang】
-DOI: 10.5281/zenodo.21336248
-版本:  
-- TDA三层双视角辩证架构 Version v3.0.0  
-- 受动极必要性定理 Appendix_G v2.0.0
-
-1. 权属声明
-1.1 数学公理、定理逻辑、客观认识论规律本身不受著作权保护；
-1.2 本文档包含的全部文字推导、公理定义、反证法完整证明、推论体系、TLA+形式化规约代码、TDA三层架构图文说明、术语体系为作者独立原创表达，受《中华人民共和国著作权法》及国际版权条约保护；
-1.3 仓库内所有源码、文档、图表、推演手稿的著作权归属上述版权持有人，开源分发仅代表授予有限使用许可，不代表著作权转让、放弃。
-
-2. 专有术语标识声明
-以下词汇为体系专属标识，已申请商标保护（申请中/已注册）：
-- 受动极必要性定理
-- TDA三层双视角辩证架构
-- 空模型+事实库+判例库
-- 能动极 (Active Pole)
-- 受动极 (Receptive Pole)
-- 目的归人
-- TDA裁决层
-任何商业产品、付费服务、企业解决方案对外宣传、产品命名时使用上述术语，必须取得版权持有人书面商用授权；学术客观引用不受此限。
-
-3. 衍生作品强制溯源义务
-任何基于本文档、代码进行修改、二次开发、撰写论文、制作技术方案、开发系统衍生产品，必须完整保留本条NOTICE、原作者署名、官方DOI，不得删除、遮挡、篡改版权标识与来源信息。
-
-4. 许可区分提示
-本项目采用双许可模式：
-  (1) 非商用学术许可：CC-BY-NC-SA 4.0，面向高校、个人非营利科研、教学学习；
-  (2) 商用专有许可：独立书面授权协议，面向企业、云厂商、付费AI服务商、商业化解决方案提供商；
-未经书面商用授权，禁止将本体系代码、理论文档、架构方案直接用于收费SaaS、私有化商业交付、付费咨询、商业培训、盈利类AI产品。
-
-5. 侵权告知渠道
-商用未授权、抹除署名、篡改来源、擅自商标商用等侵权行为，可通过以下渠道联系版权持有人处理：
-联系邮箱：【250734099@qq.com】
+cff-version: 1.2.0
+message: "If you use this theorem, TDA architecture, documents or source code, please cite it as below."
+authors:
+  - family-names: "【王】"
+    given-names: "【龙】"
+    orcid: "https://orcid.org/【0009-0004-5919-8856】"
+title: "Necessity of the Passive/Receptive Pole Theorem & TDA Three-Layer Dialectical Architecture"
+version: 2.0.0
+doi: 10.5281/zenodo.21336248
+date-released: 2026-06-14
+url: "https://github.com/dragonwang725-design/agi
+abstract: >
+  This work formalizes the Necessity of the Receptive Pole Theorem, proving that any generative reasoning system without an independent external fact-receiving channel (Receptive Pole R = ∅) will structurally produce ungrounded judgments (LLM hallucinations).
+  The TDA three-layer dialectical architecture separates Active Pole (generative inference, creativity) and Receptive Pole (independent factual snapshot loading), with additional conflict arbitration and human objective governance layers to reconcile determinism and generative capability.
+keywords:
+  - LLM hallucination
+  - receptive pole theorem
+  - TDA architecture
+  - active pole
+  - factual grounding
+  - epistemic constraint
+  - trustworthy AI
+license: CC-BY-NC-SA-4.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "【王】"
+      given-names: "【龙】"
+  title: "Appendix G: The Necessity of the Receptive Pole Theorem (v2.0.0) — TDA Three-Layer Dual-Perspective Dialectical Architecture"
+  journal: Zenodo
+  doi: 10.5281/zenodo.21336248
+  year: 2026
