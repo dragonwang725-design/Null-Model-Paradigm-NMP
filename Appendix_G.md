@@ -3,9 +3,9 @@
 > **版本**: 2.0.0  
 > **配套架构**: TDA 三层双视角辩证架构  
 > **定位**: 认识论根基的形式化表达  
-> **日期**: 2026-06-14
+> **日期**: 2026-08-05
 > 
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718874.svg)](https://doi.org/10.5281/zenodo.21718874)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21802503.svg)](https://doi.org/10.5281/zenodo.21802503)
 #
 
 ### G.1 核心命题（自然语言）
