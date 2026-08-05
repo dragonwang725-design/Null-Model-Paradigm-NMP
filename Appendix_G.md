@@ -227,4 +227,4 @@ Safety == inference_executed => (output_valid => (~r_empty /\ fact_loaded))
 
 ---
 
-*本附录是 TDA 架构从哲学诊断到数学证明的闭环节点。*  
+*本定理是 TDA 架构从哲学诊断到数学证明的闭环节点。*  
