@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this theorem, TDA architecture, documents or source code, please cite it as below."
 authors:
-  - family-names: "王"
-    given-names: "龙"
+  - family-names: "Wang"
+    given-names: "Long"
     orcid: "https://orcid.org/0009-0004-5919-8856"
 title: "Appendix G: The Necessity of the Receptive Pole Theorem & TDA Three-Layer Dialectical Architecture"
 version: 2.0.0
-doi: 10.5281/zenodo.21336248
+doi: 10.5281/zenodo.21718874
 date-released: 2026-06-14
-url: "https://github.com/dragonwang725-design/agi
+url: "https://github.com/dragonwang725-design/agi"
 abstract: >
   This work formally proves the Necessity of the Receptive Pole Theorem: any generative reasoning system without an independent external factual reading channel (Receptive Pole R = ∅) will structurally produce ungrounded judgments (LLM hallucinations).
   The TDA three-layer dual-perspective dialectical architecture separates the Active Pole (generative reasoning, creativity) and Receptive Pole (independent real-world snapshot loading), supplemented by conflict arbitration and human objective governance layers to reconcile factual determinism and generative capacity.
@@ -24,12 +24,10 @@ license: CC-BY-NC-SA-4.0
 preferred-citation:
   type: article
   authors:
-    - family-names: "王"
-      given-names: "龙"
-      orcid: "https://orcid.org/0009-0004-5919-8856
+    - family-names: "Wang"
+      given-names: "Long"
+      orcid: "https://orcid.org/0009-0004-5919-8856"
   title: "Appendix G: The Necessity of the Receptive Pole Theorem (v2.0.0) — TDA Three-Layer Dual-Perspective Dialectical Architecture"
   journal: Zenodo
-  doi: 10.5281/zenodo.21336248
+  doi: 10.5281/zenodo.21718874
   year: 2026
-
-
