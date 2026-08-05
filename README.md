@@ -11,7 +11,7 @@ Copyright (c) 2026: loweswnag
 
 未经商用授权直接用于盈利产品将构成著作权与商标侵权。
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
+
 
 #  *TDA 三层双视角辩证架构设计文档目录*
 *—— （Three-layer Dual-perspective Asymmetric）*
