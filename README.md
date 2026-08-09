@@ -6,7 +6,7 @@ date: "2026-08-09"
 version: "nmp/v7.0.0-TDA/v4.0.0"
 doi: "10.5281/zenodo.21281430" 
 license: "CC BY 4.0"
-Copyright (c) 2026: loweswnag
+Copyright (c) 2026: loweswang
 ---
 
 未经商用授权直接用于盈利产品将构成著作权与商标侵权。
